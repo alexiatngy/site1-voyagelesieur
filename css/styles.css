@@ -120,6 +120,11 @@ h1{
 .conteneur-transport{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    
+}
+
+.invisible {
+    opacity: 0;
 }
 
 article h3{
